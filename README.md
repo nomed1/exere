@@ -8,5 +8,12 @@ Expand a copy of a non encryption iTunes backup up ios 10 to a readable and navi
 python3 exere_ios2files.py -h  
 python3 exere_ios2files.py -f path/Manifest.db  
 
-![Vista module13](/images/module13.png "exere_ios2files.py")
+![Vista module13](/images/module13.png "exere_ios2files.py")  
+
+## module 14: exere_fix_adb.py
+This is an ad-hoc solution for fix your smartphone detection if crossing adb failed or not recognize  
+**usage**  
+sudo python exere_fix_adb.py
+![Vista module14](/images/module14.png "exere_fix_adb.py")  
+
 
